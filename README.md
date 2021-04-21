@@ -4,4 +4,4 @@ I'm Abdellah from Morocco, and I'm a computer science student 💻. I enjoy lear
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABDELLAH-Hallou&show_icons=true&theme=algolia&count_private=true&include_all_commits=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ABDELLAH-Hallou&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ABDELLAH-Hallou&repo=ABDELLAH-Hallou)](https://github.com/anuraghazra/github-readme-stats)
