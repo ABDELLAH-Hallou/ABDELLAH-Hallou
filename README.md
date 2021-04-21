@@ -7,3 +7,4 @@ I'm Abdellah from Morocco, and I'm a computer science student 💻. I enjoy lear
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABDELLAH-Hallou)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABDELLAH-Hallou&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABDELLAH-Hallou&show_icons=true)
