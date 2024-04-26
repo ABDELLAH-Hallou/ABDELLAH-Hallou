@@ -11,8 +11,7 @@
 
 ### Hi there 👋
 
-I'm **HALLOU Abdellah**, I'm an **Artificial Intelligence and Computer Engineering student** 💻. I am passionate about digital and new technologies, Currently, I'm a **backend developer** (django, Nodejs). as well as **Junior Data Scientist**.
-
+I'm **HALLOU Abdellah**, AI & CS student, enthusiastic about Data Science, AI, Machine Learning, NLP, problem-solving skills, and leadership. I worked on several projects as a python developer, web developer, and junior data scientist. I was able to learn how to work in a structured way on innovative projects and build skills in several fields. I also organized several extra-academic activities. These experiences requiring rigor, dynamism, and self-learning allowed me to increase my ability to adapt and my ability to learn.
 
 ## Languages and Tools 
 
