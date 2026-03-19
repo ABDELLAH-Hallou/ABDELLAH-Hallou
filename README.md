@@ -11,13 +11,13 @@
 
 ### Hi there 👋
 
-I'm **HALLOU Abdellah**, ML and Data Engineer, enthusiastic about Data Science, AI, Machine Learning, NLP, problem-solving skills, and leadership. I worked on several projects as a python developer, web developer, and junior data scientist. I was able to learn how to work in a structured way on innovative projects and build skills in several fields. I also organized several extra-academic activities. These experiences requiring rigor, dynamism, and self-learning allowed me to increase my ability to adapt and my ability to learn.
+I'm **HALLOU Abdellah**, Data Scientist, enthusiastic about AI, Machine Learning, NLP, problem-solving, and leadership.
+
+I worked on several projects as a software engineer and data scientist. I was able to learn how to work in a structured way on innovative projects and build skills in several fields. I also organized several extra-academic activities. These experiences requiring rigor, dynamism, and self-learning allowed me to increase my ability to adapt and my ability to learn.
 
 ## Languages and Tools 
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) 
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)  
-![JavaScript](https://img.shields.io/badge/-javascript-black?style=flat-square&logo=javascript)
 
 
 
