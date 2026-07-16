@@ -21,7 +21,7 @@
 
 I'm **Abdellah Hallou**, AI/Data Engineer passionate about LLM systems, NLP, and agentic architectures.
 
-I've worked across ASR/NLP pipelines, speaker identification systems, RAG pipelines, and AI observability tooling — building things end-to-end, from research to production. I care about rigor, self-learning, and open-sourcing tools that help others.
+I've worked across ASR/NLP pipelines, speaker identification systems, RAG pipelines, and AI observability tooling, building things end-to-end, from research to production. I care about rigor, self-learning, and open-sourcing tools that help others.
 
 ## Languages and Tools
 
